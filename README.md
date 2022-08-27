@@ -1,4 +1,4 @@
-# FancyBottomNavigation
+# CoolBottomNavigation
 
 ![Cool Gif](https://github.com/ElectronSz/cool_bottom_navigation/blob/main/cool_gif.gif "Cool Gif")
 
