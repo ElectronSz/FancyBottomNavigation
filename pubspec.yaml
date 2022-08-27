@@ -1,7 +1,9 @@
 name: cool_bottom_navigation
 description: A cool bottom navigation library
 version: 0.0.1
-homepage:
+homepage: https://github.com/ElectronSz/FancyBottomNavigation.git
+authors:
+  - ElecrtonSz<lwazi.dlamini@sinawetech.com>
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
