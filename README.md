@@ -9,7 +9,7 @@ Add the plugin (pub coming soon):
 ```yaml
 dependencies:
   ...
-  cool_bottom_navigation: ^0.0.2
+  cool_bottom_navigation: ^0.1.2
 ```
 
 ## Limitations
